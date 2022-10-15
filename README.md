@@ -8,4 +8,7 @@ echo "# Labs" >> README.md
 
 **I want to test if I can work with git correctly**
 
+## It actually worked exactly as I expected. That was fun :D
+
+
 End of test
